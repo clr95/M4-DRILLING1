@@ -1,0 +1,53 @@
+body{
+  background: linear-gradient(0.25turn, #1339f6, #72e4e4, #3ceaf6);
+}
+
+h1{
+    margin: 2%;
+    padding: 2%;
+  }
+
+
+p{
+  margin: 1%;
+  padding: 1%;
+}
+
+.container{
+  padding: 2%;
+  margin: 2%;
+}
+.card{
+  background-color: white;
+  margin: auto;
+  align-items: center;
+  text-align: center;
+  box-shadow: 3px;
+  margin-bottom: 3rem;
+  margin: auto;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.599);
+  border-radius: 0.5rem;
+}
+
+.inscripcion{
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.599);
+  border-radius: 0.1rem;
+  padding: 2%;
+  width: 100%;
+}
+.form-control{
+  border-radius: 0%;
+  height: max-content;
+}
+.btn{
+  border-radius: 1px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.599);
+}
+h1{
+  font-weight: bolder;
+  font-size: 4rem;
+}
+#plazo, #fecha{
+  font-size: 3rem;
+  font-weight: bold;
+}
